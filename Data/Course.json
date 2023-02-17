@@ -1,0 +1,1423 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "HTML",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "start": "12.jun.2023",
+    "price": "$220",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Module",
+      "Module-2:HTML structure",
+      "Module-3:Html Table",
+      "Module-4:HTML tag",
+      "Module-5:Explore Advance HTML",
+      "Module-5:Explore HTML from"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn HTML with iAcademy online course",
+    "author": {
+      "name": "Jimmy Dane",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fG1hbiUyMHRlYWNoZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+
+    "image_url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aHRtbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "CSS",
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "start": "22.march.2023",
+    "price": "$100",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Module",
+      "Module-2:HTML structure",
+      "Module-3:Html Table",
+      "Module-4:HTML tag",
+      "Module-5:Explore Advance HTML"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn CSS design with iAcademy online course",
+    "author": {
+      "name": "Jennifer Wood",
+      "study":"CSS",
+      "study1":"Design ",
+      "position":"Lectural",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1562788869-4ed32648eb72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fG1hbiUyMHRlYWNoZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://media.istockphoto.com/id/1425207425/photo/css-document-file-sign-3d-render-concept-for-programmer-contain-create.jpg?b=1&s=170667a&w=0&k=20&c=S5orrbCKb9mzFF2lSNNIMSTFkS7xQHNHzcHqz90EsS0="
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "CSS",
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "start": "22.march.2023",
+    "price": "$100",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Beginar CSS",
+      "Module-2:CSS color",
+      "Module-3:CSS table design",
+      "Module-4:CSS flex",
+      "Module-5:CSS float System"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn CSS Advance with iAcademy online course",
+    "author": {
+      "name": "Jennifer Wood",
+      "study":"CSS",
+      "study1":"Responsive ",
+      "position":"Lectural",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://media.istockphoto.com/id/1128399122/photo/handsome-young-businessman-portrait.jpg?s=612x612&w=0&k=20&c=0bhv18aHJALkb47tcjrxgxus8Kg_hSviSoB_5J5T7lM="
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3NzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "CSS",
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "start": "22.march.2023",
+    "price": "$100",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Advance CSS Module",
+      "Module-2:CSS grid system",
+      "Module-3:Three dimentional design",
+      "Module-4:Responsive web design",
+      "Module-5:Responsive all device"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn CSS Advance design with iAcademy online course",
+    "author": {
+      "name": "Jennifer Wood",
+      "study":"CSS",
+      "study1":"Advance ",
+      "position":"Lectural",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/flagged/photo-1553642618-de0381320ff3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://media.istockphoto.com/id/1284552053/photo/coding-software-concept-developer-working-on-code.jpg?b=1&s=170667a&w=0&k=20&c=RHrtD-Zx3CQSz2-p4WIbTn1PgM75EEEqcDregjTy3sc="
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "Bootstrap",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "start": "27.Aprial.2023",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Module",
+      "Module-2:HTML structure",
+      "Module-3:Html Table",
+      "Module-4:HTML tag",
+      "Module-5:Explore Advance HTML"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "price": "$220",
+    "title": "Learn Bootstrap with iAcademy online course",
+    "author": {
+      "name": "Jimmy Dane",
+      "study":"HTML",
+      "study1":"Bootstrap ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1584940120743-8981ca35b012?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://media.istockphoto.com/id/1405668892/photo/hand-pressing-bootstrap-button-on-virtual-screen.jpg?b=1&s=170667a&w=0&k=20&c=3HYXMB94XsEAw44wotydnk-3KV4SX-BV1I2ZllZjhrs="
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "Bootstrap",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "start": "27.Aprial.2023",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Bootstrap Module",
+      "Module-2:Bootstrap color",
+      "Module-3:Bootstrap Table",
+      "Module-4:Bootstrap card",
+      "Module-5:Explore Advance Bootstrap"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "price": "$220",
+    "title": "Learn Bootstrap Beginer with iAcademy online course",
+    "author": {
+      "name": "Jimmy Dane",
+      "study":"Bootstrap",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1522794172501-bddb216175fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://media.istockphoto.com/id/1411546500/photo/pc-keyboard-with-bootstrap-word.jpg?b=1&s=170667a&w=0&k=20&c=NazTND3g4Kxj-PfSr4XgURgTjWB0ZRXR473NBhLnvus="
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "Bootstrap",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "start": "27.Aprial.2023",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Advance Bootstrap Module",
+      "Module-2:Bootstrap Responsive Navbar",
+      "Module-3:Bootstrap responsive Togule button",
+      "Module-4:Bootstrap Tolts",
+      "Module-5:Explore Advance Bootstrap"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "price": "$220",
+    "title": "Learn Bootstrap advance with iAcademy online course",
+    "author": {
+      "name": "Jimmy Dane",
+      "study":"Bootstrap",
+      "study1":"Javascript ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1593032534613-085f25474cae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://media.istockphoto.com/id/1405668888/photo/business-woman-with-finger-pressing-bootstrap-button-on-virtual-screens.jpg?b=1&s=170667a&w=0&k=20&c=byeBCwV-85FIOkh7kPa4MYgfNbFgkcm35MtJ6HbYP6A="
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "name": "Javascript",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 733,
+    "start": "19.feb.2023",
+    "price": "$350",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Module",
+      "Module-2:HTML structure",
+      "Module-3:Html Table",
+      "Module-4:HTML tag",
+      "Module-5:Explore Advance HTML"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Javascript with iAcademy online course",
+    "author": {
+      "name": "Theo Minh Châu",
+      "study":"Javascript",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://images.unsplash.com/photo-1517530094915-500495b15ade?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+    "image_url": "https://media.istockphoto.com/id/637048374/photo/developer-at-work.jpg?b=1&s=170667a&w=0&k=20&c=g0PaBoMNF8_3o_MoZooJWA_t4NNwka7qBy8sxmq7Xms="
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "name": "Javascript",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 733,
+    "start": "19.feb.2023",
+    "price": "$350",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome javascript beginer Module",
+      "Module-2:javascript variable declare",
+      "Module-3:javascript for loop",
+      "Module-4:javascript While loop",
+      "Module-5:Explore javascript basic part"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Javascript Beginar with iAcademy online course",
+    "author": {
+      "name": "Theo Minh Châu",
+      "study":"HTML",
+      "study1":"Javascript ",
+      "position":"Lectural",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+    "image_url": "https://media.istockphoto.com/id/1284271878/photo/javascript-inscription-against-laptop-and-code-background-learn-javascript-programming.jpg?b=1&s=170667a&w=0&k=20&c=pNyw5iN2ee3oK5adyRBr9-w1cPh9hkUGGnc5Q4JfyJM="
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "name": "Javascript",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 733,
+    "start": "19.feb.2023",
+    "price": "$350",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome javascript Advance Module",
+      "Module-2:javascript function declare",
+      "Module-3:javascript for while loop",
+      "Module-4:javascript Destructreing ",
+      "Module-5:Explore javascript object ",
+      "Module-6:Explore javascript array loop(for in,filter,map,for of) "
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Advance Javascript with iAcademy online course",
+    "author": {
+      "name": "Theo Minh Châu",
+      "study":"Javascript",
+      "study1":"Bootstrap ",
+      "position":"Lectural",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://media.istockphoto.com/id/1388403463/photo/frustrated-young-asian-muslim-businesswoman-wearing-hijab-working-on-a-laptop-sitting-at-desk.jpg?b=1&s=170667a&w=0&k=20&c=CslUYiUHJMzgvphgW_XN9MXe2sQ8rMPUAgHYGJfir0A="
+    },
+    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+    "image_url": "https://media.istockphoto.com/id/1322205512/photo/digitally-enhanced-shot-of-computer-code-superimposed-over-an-unrecognizable-man-in-a-hoodie.jpg?b=1&s=170667a&w=0&k=20&c=wb4j59oW6yRyBXGHPLlrhp1ktqp4zCJYULZWrSiGHlk="
+  },
+
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "React js",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 127,
+    "start": "25.may.2023",
+    "price": "$320",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Module",
+      "Module-2:HTML structure",
+      "Module-3:Html Table",
+      "Module-4:HTML tag",
+      "Module-5:Explore Advance HTML"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn React js with iAcademy online course",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "study":"Javascript",
+      "study1":"React",
+      "position":"Lectural",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1574297500578-afae55026ff3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8d29tYW4lMjBoaWphYnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+    "image_url": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJlYWN0JTIwanN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "React js",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 127,
+    "start": "25.may.2023",
+    "price": "$320",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome React module",
+      "Module-2:React component structure",
+      "Module-3: React Javascript XML",
+      "Module-4:Dynamic data pass",
+      "Module-5:Explore API data load"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn basic React js with iAcademy online course",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "study":"React",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1550546094-9835463f9f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8d29tYW4lMjBoaWphYnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+    "image_url": "https://images.unsplash.com/photo-1526498460520-4c246339dccb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlYWN0JTIwanN8ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=60"
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "React js",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 127,
+    "start": "25.may.2023",
+    "price": "$320",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Advance React js Module",
+      "Module-2:React Data storage system",
+      "Module-3:React Bootstrap",
+      "Module-4:React Router",
+      "Module-5:React State",
+      "Module-5:React Nested router",
+      "Module-5:React  Advance others topics"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Advance React js with iAcademy online course",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "study":"React",
+      "study1":"Express ",
+      "position":"Lectural",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://media.istockphoto.com/id/1349297968/photo/happy-female-muslim-student-smiling-in-college.jpg?b=1&s=170667a&w=0&k=20&c=fPOjYmqZjOWS-GBQl6SB1YeFlypj37tpTREcbztZ70c="
+    },
+    "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+    "image_url": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHJlYWN0JTIwanN8ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=60"
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87f66",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "name": "Express js",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "start": "12.jun.2023",
+    "price": "$110",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Module",
+      "Module-2:HTML structure",
+      "Module-3:Html Table",
+      "Module-4:HTML tag",
+      "Module-5:Explore Advance HTML"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Express with iAcademy online course",
+    "author": {
+      "name": "",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://media.istockphoto.com/id/1394149744/photo/headshot-of-early-20s-middle-eastern-woman.jpg?s=612x612&w=0&k=20&c=Q4gBjPUfikbPtkFh3I9_CoLF53H8Bz9FAfxiMOO7eIY="
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://media.istockphoto.com/id/1410277415/photo/concept-of-decentralized-internet-wide-banner-web-3-technology-concept-web-3-0-3d-rendering.jpg?b=1&s=170667a&w=0&k=20&c=3au1LtMBPOLQ4p887amEJIrka9ggzMaIgMwXRaZqwVM="
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87f66",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "name": "Express js",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "start": "12.jun.2023",
+    "price": "$110",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome express Module",
+      "Module-2:What is express js",
+      "Module-3:What is Express Server",
+      "Module-4:How to make express Server",
+      "Module-5:Explore basic express"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Basic Express with iAcademy online course",
+    "author": {
+      "name": "Nishat",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://media.istockphoto.com/id/1342029049/photo/head-shot-of-beautiful-woman-student-teacher-or-blogger.jpg?s=612x612&w=0&k=20&c=NwyPh-KlEYBxJFCuFnzSiv1-pgGOCDxqctzIF7ZHig0="
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://media.istockphoto.com/id/1399794668/photo/python-high-level-programing-language-communications-technology-concept.jpg?b=1&s=170667a&w=0&k=20&c=lp3BDvCxxKYJtU3NwCUfRkPersM5lRvb7w24lmLF90s="
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87f66",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "name": "Express js",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "start": "12.jun.2023",
+    "price": "$110",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Advance Express js Module",
+      "Module-2:Dynamic Express Server create",
+      "Module-3:Client data recive",
+      "Module-4:Express data pass",
+      "Module-5:Explore Advance Express"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Advance Express with iAcademy online course",
+    "author": {
+      "name": "Hasibul Hamim",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://images.unsplash.com/photo-1599050751795-6cdaafbc2319?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZXhwcmVzcyUyMGpzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60"
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "name": "MongoDB",
+    "category_id": "07",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "start": "30.jun.2023",
+    "price": "$300",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Module",
+      "Module-2:HTML structure",
+      "Module-3:Html Table",
+      "Module-4:HTML tag",
+      "Module-5:Explore Advance HTML"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn MongoDB with iAcademy online course",
+    "author": {
+      "name": "Hasibul Romel",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://media.istockphoto.com/id/1368352775/photo/data-center-in-server-room-with-server-racks.jpg?b=1&s=170667a&w=0&k=20&c=L9guolQSEzO5C_Nq_ax3KIDnpTlcwRd2xlsAvJc8qQg="
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "name": "MongoDB",
+    "category_id": "07",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "start": "30.jun.2023",
+    "price": "$300",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome MongoDB Module",
+      "Module-2:What is MongoDB",
+      "Module-3:Why use MOngoDB",
+      "Module-4:How to write MongoDB cose",
+      "Module-5:Explore Basic MOngoDB"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn basic MongoDB with iAcademy online course",
+    "author": {
+      "name": "Sakib",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://images.unsplash.com/photo-1664854953181-b12e6dda8b7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG1vbmdvREIlMjBkYXRhYmFzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=2000&q=60"
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "name": "MongoDB",
+    "category_id": "07",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "start": "30.jun.2023",
+    "price": "$300",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Advance MOngoDB Module",
+      "Module-2:How to store user data",
+      "Module-3:Admin access user data",
+      "Module-4:MongoDB table create",
+      "Module-5:Explore Advance MongoDB"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Advance MongoDB with iAcademy online course",
+    "author": {
+      "name": "Anamika anu",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://images.unsplash.com/photo-1666317411591-924603dbe861?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW9uZ29EQiUyMGRhdGFiYXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60"
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87f88",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "name": "Tailwaind",
+    "category_id": "08",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "start": "29.march.2023",
+    "price": "$190",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Module",
+      "Module-2:HTML structure",
+      "Module-3:Html Table",
+      "Module-4:HTML tag",
+      "Module-5:Explore Advance HTML"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Tailwind with iAcademy online course",
+    "author": {
+      "name": " Sabbir",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://media.istockphoto.com/id/1190200652/photo/the-painter-hands.jpg?b=1&s=170667a&w=0&k=20&c=lwHNOYMB66r3Qrs1XXjRuJEFA_7jetYzhMSElpToeas="
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87f88",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "name": "Tailwaind",
+    "category_id": "08",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "start": "29.march.2023",
+    "price": "$190",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Basic Tailwind Module",
+      "Module-2:Tailwind css color ",
+      "Module-3:Tailwind css grid system",
+      "Module-4:Tailwind css from design",
+      "Module-5:Explore Basic Tailwind CSS"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Basic Tailwind with iAcademy online course",
+    "author": {
+      "name": "Omade GH",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://images.unsplash.com/photo-1577760258779-e787a1733016?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=2000&q=60"
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87f88",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "name": "Tailwaind",
+    "category_id": "08",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "start": "29.march.2023",
+    "price": "$190",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Advance Tailwind Module",
+      "Module-2:Responsicve card design",
+      "Module-3:Responsive carousel slide design",
+      "Module-4:Responsive NavBar design",
+      "Module-5:Explore Advance Tailwind"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn Advance Tailwind with iAcademy online course",
+    "author": {
+      "name": " Akib Khan",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://images.unsplash.com/photo-1572985025058-f27aeca1b8bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=2000&q=60"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "HTML",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "start": "12.jun.2023",
+    "price": "$220",
+    "end": "12.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Module",
+      "Module-2:HTML structure",
+      "Module-3:Html Table",
+      "Module-4:HTML tag",
+      "Module-5:Explore Advance HTML"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn HTML Beginer with iAcademy online course",
+    "author": {
+      "name": "Jimmy Dane",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "img": "https://img.freepik.com/free-photo/design-html-web-design-template-concept_53876-120438.jpg?size=626&ext=jpg&ga=GA1.2.516076512.1656907177&semt=sph"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+
+    "image_url": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHRtbDV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "name": "HTML",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "start": "22.jun.2023",
+    "price": "$320",
+    "end": "22.july.2023",
+    "orientation": "20.july.2023",
+    "classe": "21.july.2023",
+    "video": "200",
+    "project": "10",
+    "assignment": "16",
+    "cariculam": [
+      "Module-1:Welcome Advance HTML Module",
+      "Module-2:HTML From",
+      "Module-3:Html From Handler",
+      "Module-4:HTML responsive Table",
+      "Module-5:Explore Advance HTML"
+    ],
+    "specialty": [
+      "Unlimited Support",
+      "Special Job Placement Coach",
+      "Proven Track Record",
+      "Live Conceptual Session",
+      "Advance Crash Course (ACC)",
+      "Option to watch offline videos"
+    ],
+    "detail": [
+      "Any questions you may have will be answered within 10 hours during the course",
+      "Those who will finish the main course and SCIC (Super charged Interviewee club) will get access to work with the Job Placement Coach",
+      "70-80% of the students who finish our main course and SCIC on time, get an intern/job within 3-6 months of completion.",
+      "Our live conceptual sessions will clear your doubts through live coding in different projects.",
+      "Advance Crash Course (ACC)",
+      "You do not have a reliable internet! You can use our neptune app (android and ios) and windows desktop app to watch videos offline without."
+    ],
+    "work": [
+      "Everyday we will be given a module/practice task. Videos will be released at 10.00pm. Smart students may trick our system to get module access 2 hours earlier than everyone else",
+      "A full module has approximately 10 videos (each video 12-14 min). You have to spend 4-5 hours watching, practicing the contents. We recommend allocating 6-8 hours everyday for this course.",
+      "Keep 1-2 hours everyday to clear our doubts from google, or using our support system. If you do not have any doubts, we recommend you search the similar topic of the module online",
+      "You will have a practice day after every 2-4 modules. And there will be a conceptual session on that practice day. We highly recommend our students to join the live conceptual session."
+    ],
+    "title": "Learn HTML Advance with iAcademy online course",
+    "author": {
+      "name": "Jimmy Dane",
+      "study":"HTML",
+      "study1":"CSS ",
+      "position":"Lectural",
+      "img": "https://img.freepik.com/free-photo/design-html-web-design-template-concept_53876-120438.jpg?size=626&ext=jpg&ga=GA1.2.516076512.1656907177&semt=sph"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+
+    "image_url": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aHRtbDV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  }
+]
